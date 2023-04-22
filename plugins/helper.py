@@ -22,11 +22,11 @@ Hi {}!
 This Is PDisk Bot For Free 😇
 Read /help Carefully & Do Follow All Given Instruction...
 
-For More Bots Join @HeimanSupports
+For More Bots Join @ps_botz
 """
 
 HELP = """
-**Send Me Direct Download Link Like Mirror Or From @LinkXGenBot.
+**Send Me Direct Download Link Like Mirror Or From @PS_Botz.
 
 Send As This Format**
 
@@ -52,8 +52,8 @@ START_BUTTONS = InlineKeyboardMarkup(
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📮 Update 📮', url='https://telegram.dog/HeimanSupports/'),
-        InlineKeyboardButton('🛠️ Support 🛠️', url='https://telegram.dog/HeimanSupport/'),
+        InlineKeyboardButton('📮 Update 📮', url='https://telegram.dog/PS_BOTZ/'),
+        InlineKeyboardButton('🛠️ Support 🛠️', url='https://telegram.dog/PS_BOTZ/'),
         ],[
         InlineKeyboardButton('Home', callback_data='home'),
         InlineKeyboardButton('Close', callback_data='close')
