@@ -38,7 +38,7 @@ Send As This Format**
 
 **NOTE:
 ➢ Do Not Spam, Send Link One By One
-➢ To Know Status Just Go To cofilink.com/home**
+➢ To Know Status Just Go To pdisk.pro/home**
 """
 
 # NON_OWNER = "You Can't Use Me Ask My [Owner](tg://user?id={})"
